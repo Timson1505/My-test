@@ -335,6 +335,7 @@ footer {
     }
     #hero {
         height: 50vh;
+        margin-top: 80px;
     }
     #service .card {
         flex-direction: column;
