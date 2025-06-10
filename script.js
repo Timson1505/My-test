@@ -18,7 +18,7 @@ function sendToWhatsApp() {
   }
 
   const formattedDate = new Date(date).toLocaleDateString('ru-RU');
-  const whatsappNumber = '996509601501'; // Ваш номер без +
+  const whatsappNumber = '996709070808'; // Ваш номер без +
   
   const text = `Новая запись в салон:
 Имя: ${name}
